@@ -37,6 +37,7 @@ const modalBody = document.querySelector('.modal-body');
 const modalPrice = document.querySelector('.modal-pricetag');
 const buttonClearCart = document.querySelector('.clear-cart');
 const modalCart = document.querySelector('.modal-cart');
+const Search = document.querySelector('.search');
 
 let login = localStorage.getItem('gloDelivery');
 //let cartBuy = localStorage.getItem('Cart');
